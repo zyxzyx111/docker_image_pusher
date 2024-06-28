@@ -1,1 +1,1 @@
-xiaoyaliu/alist
+docker pull xiaoyaliu/alist:hostmode
